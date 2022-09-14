@@ -49,7 +49,7 @@ The A-Level also requires you to understand these and have an ability to apply t
     - `That is a long name.` if the name is at least 8 letters long.
 
 ### `switch`-Statements
-These tasks require you to *read* code in Java and fill in gaps, but you do not need to write any extensive code. This is because Python does not have `switch` statements yet you need to be aware of them for the exam!
+These tasks require you to *read* code in Java and replace Strings with other Strings, but you do not need to write any extensive code. This is because Python does not have `switch` statements yet you need to be aware of them for the exam!
 
 1) Look at the file `src/Switch1.java`. It contains a switch statement the behaviour of which depends on two variables, `x` and `y`. In the file `src/switch1.py`, complete the first five print statements to describe which letters are printed depending on the values of `x` and `y` an complete the last three print statements with Booleans to answer whether the given statements are true or false, respectively.
 2) Look at the file `src/Switch2.java`. It contains a switch statement which is used to answer the question "How many days does a given month of the year have?". Fill in the cases so that the program would work in 2022! 

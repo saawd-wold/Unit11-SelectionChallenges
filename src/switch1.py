@@ -3,8 +3,8 @@
 # x and y were as given.
 print("x = 1, y = 2", "")
 print("x = 3, y = 0", "")
-print("x = 2, y = 5", "")
-print("x = 7, y = 3", "")
+print("x = 2, y = 2", "")
+print("x = 8, y = 3", "")
 print("x = 6, y = 6", "")
 
 # True or false? 

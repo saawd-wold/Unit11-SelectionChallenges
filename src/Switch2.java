@@ -4,40 +4,40 @@ public class Switch2{
     public static void daysInMonth(String month){
         
         switch (month) {
-            case "":
+            case "1":
                 System.out.println("28 Days");
             break;
-            case "":
+            case "2":
                 System.out.println("30 Days");
             break;
-            case "":
+            case "3":
                 System.out.println("30 Days");
             break;
-            case "":
+            case "4":
                 System.out.println("30 Days");
             break;
-            case "":
+            case "5":
                 System.out.println("30 Days");
             break;
-            case "":
+            case "6":
                 System.out.println("31 Days");
             break;
-            case "":
+            case "7":
                 System.out.println("31 Days");
             break;
-            case "":
+            case "8":
                 System.out.println("31 Days");
             break;
-            case "":
+            case "9":
                 System.out.println("31 Days");
             break;
-            case "":
+            case "10":
                 System.out.println("31 Days");
             break;
-            case "":
+            case "11":
                 System.out.println("31 Days");
             break;
-            case "":
+            case "12":
                 System.out.println("31 Days");
             break;
             default:

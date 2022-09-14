@@ -33,7 +33,7 @@ public class Switch1{
                 System.out.println("G");
             break;
             default:
-                System.out.println("H")
+                System.out.println("H");
             break;
         }
 
