@@ -1,7 +1,7 @@
 # DO NOT EDIT THE BELOW LINES.
 age = int(input())
 
-none_message = "You can't do nything in America!"
+none_message = "You can't do anything in America!"
 driving_message = "You can take a driving test."
 voting_message = "You can vote in federal elections."
 drinking_message = "You can buy and drink alcohol."

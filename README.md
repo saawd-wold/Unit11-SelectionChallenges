@@ -19,7 +19,7 @@ The A-Level also requires you to understand these and have an ability to apply t
 2) Complete the `if`-statement in `src/booleanoperators2.py` to check for the exclusive or of the variables `bool1` and `bool2`. That is, the program should print `XOR!` when exactly one of the two given inputs is `True`.
 
 ### `if`-Statements
-1) In the file `src/if1.py`, write a program that accepts two integers from the user and outputs `The first number is larger!` if the first input was larger than the second, `The numbers were equally big!` if they were equally big and `The second number was larger!` if the second number was larger.
+1) In the file `src/if1.py`, finish the program to accept two integers from the user and output `The first number is larger!` if the first input was larger than the second, `The numbers were equally big!` if they were equally big and `The second number was larger!` if the second number was larger.
 2) In the file `src/if2.py`, write a program that asks the user for their age and outputs which of the following things the user would be allowed to do in the United States of America:
     - Take a driving exam
     - Vote in federal elections
