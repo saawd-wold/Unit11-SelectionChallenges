@@ -43,8 +43,9 @@ The A-Level also requires you to understand these and have an ability to apply t
         - `There are two real roots at (...) and (...)` where `(...)` should be replaced by the values of $x$ at which the function has roots. (Smaller $x$ first!) 
 
       *Hint: Recall the quadratic formula:*
-      
-      $ f(x) = 0 \implies x = \frac{-b \pm\sqrt{b^2-4ac}}{2a}$
+      ```math
+      f(x) = 0 \implies x = \frac{-b \pm\sqrt{b^2-4ac}}{2a}$
+      ```
       
       *which can be used to determine the roots of a quadratic, if they exist.*
 5) In the file `src/if5.py`, write a program that asks the user for their name, tells the user how many letters there are in their name and then says
