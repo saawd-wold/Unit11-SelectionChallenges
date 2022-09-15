@@ -1,0 +1,5 @@
+# DON'T EDIT LINES 3 AND 4
+# IF YOU ADD A PROMPT THE AUTOMATIC TESTS WILL FAIL
+num1 = int(input())
+num2 = int(input())
+# WRITE YOUR CODE BELOW, USING num1 AND num2
