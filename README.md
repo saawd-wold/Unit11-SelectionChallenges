@@ -35,19 +35,14 @@ The A-Level also requires you to understand these and have an ability to apply t
     - asks the user for three numbers, `a`, `b` and `c`
     - determines the roots of the polynomial 
       
-      $f(x) = ax^2 + bx + c$
+      $$f(x) = ax^2 + bx + c$$
       
       and outputs 
         - `There are no real roots.` if this is the case,
         - `There is one real root at ` followed by the value of $x$ at which the function has a root or
         - `There are two real roots at (...) and (...)` where `(...)` should be replaced by the values of $x$ at which the function has roots. (Smaller $x$ first!) 
 
-      *Hint: Recall the quadratic formula:*
-      ```math
-      f(x) = 0 \implies x = \frac{-b \pm\sqrt{b^2-4ac}}{2a}$
-      ```
-      
-      *which can be used to determine the roots of a quadratic, if they exist.*
+      *Hint: Recall the quadratic formula: $$f(x) = 0 \implies x = \frac{-b \pm\sqrt{b^2-4ac}}{2a}$$ which can be used to determine the roots of a quadratic, if they exist.*
 5) In the file `src/if5.py`, write a program that asks the user for their name, tells the user how many letters there are in their name and then says
     - `That is a short name.` if the name is at most four letters long.
     - `That is a common length for a name.` if the name is between 5 and 7 letters long. 
